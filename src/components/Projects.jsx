@@ -2,7 +2,7 @@ import React from 'react'
 import MAF from '../assets/MAF-SS.png'
 import PPChron from '../assets/paw-chronicles-SS.png'
 import WDash from '../assets/weather-Dash-SS.png'
-import TGen from '../assets/teamGenerateSS.png'
+import TeamGen from '../assets/teamGenerateSS.png'
 
 
 const Projects = () => {
@@ -81,7 +81,7 @@ const Projects = () => {
 
                 {/* grid item */}
                 <div 
-                    style={{ backgroundImage: `url(${TGen})` }}
+                    style={{ backgroundImage: `url(${TeamGen})` }}
                     className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
                     {/* hover effects */}
