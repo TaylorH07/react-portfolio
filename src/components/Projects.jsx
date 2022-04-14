@@ -3,6 +3,8 @@ import MAF from '../assets/MAF-SS.png'
 import PPChron from '../assets/paw-chronicles-SS.png'
 import WDash from '../assets/weather-Dash-SS.png'
 import TeamGen from '../assets/teamGenerateSS.png'
+import NoteSS from '../assets/noteTakerSS.png'
+import workdaySS from '../assets/workdaySS.png'
 
 
 const Projects = () => {
@@ -27,10 +29,10 @@ const Projects = () => {
                             React JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://taylorh07.github.io/movie-actor-finder/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/TaylorH07/movie-actor-finder">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
@@ -48,10 +50,10 @@ const Projects = () => {
                             React JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://tranquil-meadow-44829.herokuapp.com/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/TaylorH07/pawprint-chronicles">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
@@ -69,10 +71,10 @@ const Projects = () => {
                             React JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://taylorh07.github.io/weather-dashboard/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/TaylorH07/weather-dashboard">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
@@ -93,7 +95,49 @@ const Projects = () => {
                             <a href="/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/TaylorH07/team-profile-generator">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                {/* grid item */}
+                <div 
+                    style={{ backgroundImage: `url(${workdaySS})` }}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ' >
+                    
+                    {/* hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100 '>
+                        <span className='text-2xl font-bold text-white tracking-wider ' >
+                            React JS Application
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href="https://taylorh07.github.io/workday-scheduler/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
+                            </a>
+                            <a href="https://github.com/TaylorH07/workday-scheduler">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                {/* grid item */}
+                <div 
+                    style={{ backgroundImage: `url(${NoteSS})` }}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ' >
+                    
+                    {/* hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100 '>
+                        <span className='text-2xl font-bold text-white tracking-wider ' >
+                            React JS Application
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href=" https://calm-dusk-17445.herokuapp.com/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
+                            </a>
+                            <a href="https://github.com/TaylorH07/note-taker">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
