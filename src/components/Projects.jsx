@@ -25,8 +25,8 @@ const Projects = () => {
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
-                        <span className='text-2xl font-bold text-white tracking-wider ' >
-                            React JS Application
+                        <span className='text-2xl font-bold text-gray-500 tracking-wider ' >
+                            Interactive Front-End 
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://taylorh07.github.io/movie-actor-finder/">
@@ -46,8 +46,8 @@ const Projects = () => {
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
-                        <span className='text-2xl font-bold text-white tracking-wider ' >
-                            React JS Application
+                        <span className='text-2xl font-bold text-gray-500 tracking-wider ' >
+                            Full-Stack Application
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://tranquil-meadow-44829.herokuapp.com/">
@@ -67,8 +67,8 @@ const Projects = () => {
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
-                        <span className='text-2xl font-bold text-white tracking-wider ' >
-                            React JS Application
+                        <span className='text-2xl font-bold text-gray-500 tracking-wider ' >
+                            Server-Side API
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://taylorh07.github.io/weather-dashboard/">
@@ -88,8 +88,8 @@ const Projects = () => {
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
-                        <span className='text-2xl font-bold text-white tracking-wider ' >
-                            React JS Application
+                        <span className='text-2xl font-bold text-gray-500 tracking-wider ' >
+                            Object-Oriented Program
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
@@ -109,8 +109,8 @@ const Projects = () => {
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
-                        <span className='text-2xl font-bold text-white tracking-wider ' >
-                            React JS Application
+                        <span className='text-2xl font-bold text-gray-500 tracking-wider ' >
+                            Third-Party API
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://taylorh07.github.io/workday-scheduler/">
@@ -130,8 +130,8 @@ const Projects = () => {
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100 '>
-                        <span className='text-2xl font-bold text-white tracking-wider ' >
-                            React JS Application
+                        <span className='text-2xl font-bold text-gray-500 tracking-wider'>
+                            Express.js Application
                         </span>
                         <div className='pt-8 text-center'>
                             <a href=" https://calm-dusk-17445.herokuapp.com/">
