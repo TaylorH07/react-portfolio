@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ccfeda31.css",
-    "main.js": "/static/js/main.08ef3914.js",
+    "main.js": "/static/js/main.1b083ae4.js",
     "static/media/MAF-SS.png": "/static/media/MAF-SS.67ba90a460b2abe867c4.png",
     "static/media/paw-chronicles-SS.png": "/static/media/paw-chronicles-SS.8fe215927fb5592c2b71.png",
     "static/media/weather-Dash-SS.png": "/static/media/weather-Dash-SS.4c7fc2e7edf038f19acd.png",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.ccfeda31.css.map": "/static/css/main.ccfeda31.css.map",
-    "main.08ef3914.js.map": "/static/js/main.08ef3914.js.map"
+    "main.1b083ae4.js.map": "/static/js/main.1b083ae4.js.map"
   },
   "entrypoints": [
     "static/css/main.ccfeda31.css",
-    "static/js/main.08ef3914.js"
+    "static/js/main.1b083ae4.js"
   ]
 }
