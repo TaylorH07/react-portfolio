@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccfeda31.css",
+    "main.js": "/static/js/main.08ef3914.js",
+    "static/media/MAF-SS.png": "/static/media/MAF-SS.67ba90a460b2abe867c4.png",
+    "static/media/paw-chronicles-SS.png": "/static/media/paw-chronicles-SS.8fe215927fb5592c2b71.png",
+    "static/media/weather-Dash-SS.png": "/static/media/weather-Dash-SS.4c7fc2e7edf038f19acd.png",
+    "static/media/teamGenerateSS.png": "/static/media/teamGenerateSS.c95ef20b5aaaadda9c9b.png",
+    "static/media/workdaySS.png": "/static/media/workdaySS.627732b60fafdb50d064.png",
+    "static/media/noteTakerSS.png": "/static/media/noteTakerSS.9ca756c6f720738000d1.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/myLogo2.png": "/static/media/myLogo2.21f864ce5935813b5a95.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.ccfeda31.css.map": "/static/css/main.ccfeda31.css.map",
+    "main.08ef3914.js.map": "/static/js/main.08ef3914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfeda31.css",
+    "static/js/main.08ef3914.js"
+  ]
+}
