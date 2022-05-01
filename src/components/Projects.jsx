@@ -5,7 +5,7 @@ import WDash from '../assets/weather-Dash-SS.png'
 import TeamGen from '../assets/teamGenerateSS.png'
 import NoteSS from '../assets/noteTakerSS.png'
 import workdaySS from '../assets/workdaySS.png'
-
+import ddelivery from '../assets/doug-deliveriesSS.png'
 
 const Projects = () => {
   return (
@@ -62,6 +62,27 @@ const Projects = () => {
 
                 {/* grid item */}
                 <div 
+                    style={{ backgroundImage: `url(${ddelivery})` }}
+                    className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ' >
+                    
+                    {/* hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100 '>
+                        <span className='text-2xl font-bold text-gray-500 tracking-wider ' >
+                            Full-Stack Application
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href="https://dougie-deliveries2022.herokuapp.com/" target="_blank" >
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
+                            </a>
+                            <a href="https://github.com/TaylorH07/dougie-deliveries" target="_blank" >
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                  
+                {/* grid item */}
+                <div 
                     style={{ backgroundImage: `url(${WDash})` }}
                     className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
@@ -82,12 +103,12 @@ const Projects = () => {
                 </div>
 
                 {/* grid item */}
-                <div 
+                {/* <div 
                     style={{ backgroundImage: `url(${TeamGen})` }}
                     className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
                     {/* hover effects */}
-                    <div className='opacity-0 group-hover:opacity-100 '>
+                    {/* <div className='opacity-0 group-hover:opacity-100 '>
                         <span className='text-2xl font-bold text-gray-500 tracking-wider ' >
                             Object-Oriented Program
                         </span>
@@ -100,7 +121,7 @@ const Projects = () => {
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 {/* grid item */}
                 <div 
