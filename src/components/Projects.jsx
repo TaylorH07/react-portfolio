@@ -2,7 +2,6 @@ import React from 'react'
 import MAF from '../assets/MAF-SS.png'
 import PPChron from '../assets/paw-chronicles-SS.png'
 import WDash from '../assets/weather-Dash-SS.png'
-import TeamGen from '../assets/teamGenerateSS.png'
 import NoteSS from '../assets/noteTakerSS.png'
 import workdaySS from '../assets/workdaySS.png'
 import ddelivery from '../assets/doug-deliveriesSS.png'
@@ -10,10 +9,10 @@ import ddelivery from '../assets/doug-deliveriesSS.png'
 const Projects = () => {
   return (
     <div name='projects' className='w-full md:h-screen text-gray-300 bg-[#040412]' >
-        <div className='max-w mx-auto p-4 flex flex-col justify-center w-full h-full ' >
+        <div className=' max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full ' >
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-violet-600 ' >Projects</p>
-                <p className='py-6 '> // Check out some of my recent Projects</p>
+                <p className='py-6 '>  Check out some of my recent Projects </p>
             </div>
             {/* Grid container */}
             <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4  '>
@@ -29,10 +28,10 @@ const Projects = () => {
                             Interactive Front-End 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://taylorh07.github.io/movie-actor-finder/" target="_blank">
+                            <a href=" https://taylorh07.github.io/movie-actor-finder/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="https://github.com/TaylorH07/movie-actor-finder" target="_blank" target="_blank" >
+                            <a href=" https://github.com/TaylorH07/movie-actor-finder" target="_blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
@@ -50,10 +49,10 @@ const Projects = () => {
                             Full-Stack Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://tranquil-meadow-44829.herokuapp.com/" target="_blank" >
+                            <a href="https://tranquil-meadow-44829.herokuapp.com/" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="https://github.com/TaylorH07/pawprint-chronicles" target="_blank" >
+                            <a href="https://github.com/TaylorH07/pawprint-chronicles" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
@@ -71,10 +70,10 @@ const Projects = () => {
                             Full-Stack Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://dougie-deliveries2022.herokuapp.com/" target="_blank" >
+                            <a href="https://dougie-deliveries2022.herokuapp.com/" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="https://github.com/TaylorH07/dougie-deliveries" target="_blank" >
+                            <a href="https://github.com/TaylorH07/dougie-deliveries" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
@@ -92,10 +91,10 @@ const Projects = () => {
                             Server-Side API
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://taylorh07.github.io/weather-dashboard/" target="_blank" >
+                            <a href="https://taylorh07.github.io/weather-dashboard/" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="https://github.com/TaylorH07/weather-dashboard" target="_blank" >
+                            <a href="https://github.com/TaylorH07/weather-dashboard" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
@@ -134,10 +133,10 @@ const Projects = () => {
                             Third-Party API
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://taylorh07.github.io/workday-scheduler/" target="_blank" >
+                            <a href="https://taylorh07.github.io/workday-scheduler/" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="https://github.com/TaylorH07/workday-scheduler" target="_blank" >
+                            <a href="https://github.com/TaylorH07/workday-scheduler" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
@@ -158,7 +157,7 @@ const Projects = () => {
                             <a href=" https://calm-dusk-17445.herokuapp.com/" target="_blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
                             </a>
-                            <a href="https://github.com/TaylorH07/note-taker" target="_blank" >
+                            <a href="https://github.com/TaylorH07/note-taker" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
                         </div>
