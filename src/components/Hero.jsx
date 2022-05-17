@@ -1,13 +1,13 @@
-import React from 'react'
-import bubbles from '../assets/bubbleVid.mp4'
+// import React from 'react'
+// import jellyFish from '../assets/jellyfishVid.mp4'
 
-const Hero = () => {
-    return (
-        <div className='w-full h-screen relative'>
-            <video className='w-full h-full object-cover' src={bubbles} autoPlay loop muted />
+// const Hero = () => {
+//     return (
+//         <div className='w-full h-screen relative'>
+//             <video className='w-full h-full object-cover' src={jellyFish} autoPlay loop muted />
             
-        </div>
-    )
-}
+//         </div>
+//     )
+// }
 
-export default Hero
+// export default Hero
