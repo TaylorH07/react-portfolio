@@ -28,3 +28,13 @@
     hsla(242, 74%, 61%, 0.8)
   )!important;
 }
+
+.anaglyph {
+  letter-spacing: 6px;
+  text-shadow: rgb(239, 72, 225) 0 0, cyan 0 0;
+  transition: text-shadow 200ms;
+}
+
+.anaglyph:hover {
+  text-shadow: rgb(239, 72, 225) -6px 0, cyan 6px 0;
+}
