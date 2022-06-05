@@ -6,7 +6,7 @@ const About = () => {
         <div className='flex flex-col justify-center items-center w-full h-full'>
             <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8 '>
                 <div className='sm:text-right pb-8 pl-4 '>
-                    <p className='text-4xl font-bold inline border-b-4 border-violet-700 '>
+                    <p className='text-4xl font-bold inline border-b-4 border-[#528082]'>
                         About 
                     </p>
                 </div>
@@ -14,12 +14,15 @@ const About = () => {
                 </div>
             <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 ">
                 <div className=' sm:text-right text-4xl font-bold '>
-                    <p> Hey Hey, Nice to meet you! I'm Taylor, please take a look around. </p>
+                    <p> Hey, I am ecstatic that you are here! I'm Taylor, please take a look around. </p>
                 </div>
                 <div>
                     <p>
-                        Passionate about problem solving and building exceptional software 
-                        to improve the lives of users around world.
+                        - I recently graduated from SMU’s Full Stack Web Development Program while teaching students with learning disabilities, and coaching track and football. I bring a strong work ethic, unparalleled patience, and an itch to learn and deliver great applications. With strengths in creativity, teamwork, and building projects from ideation to execution,  I’m eager to apply my knowledge, and creatively solve problems to achieve the main goal.
+                          <br />
+                          <br />
+                        {/* - Passionate about problem solving and building exceptional software 
+                        to improve the lives of users around world. */}
                     </p>
                 </div>
 
