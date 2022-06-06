@@ -18,10 +18,11 @@ const Home = () => {
             <p className='text-[#c0fdff]'> Hey Hey! My name is</p>
             <h1 className='text-4xl sm:text-7xl font-bold text-[#b8c6f4] ' > Taylor Holmes </h1>
             <h2 className='text-4xl sm:text-7xl font-bold text-[#869ce4] '> I'm a Software Engineer/ Full Stack Developer</h2>
-            <p className='text-[#869ce4] py-4 max-w-[700px] '> I am a Full Stack Developer/Software Engineer from Southern Methodist University
-                 Full Stack Development Bootcamp</p>
+        <p className='text-[#869ce4] py-4 max-w-[700px] '>
+          - Passionate about problem solving and building exceptional software to improve the lives of users around world.
+            </p>
             <div>
-                <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#528082] hover:border-[#c0fdff]'> 
+                <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#869ce4] hover:border-[#b8c6f4] anaglyph'> 
                     <Link to="projects" smooth={true} duration={500}>
                         View Projects
                     </Link>
