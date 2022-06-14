@@ -23,8 +23,13 @@ Presented is my personal portfolio. In this portfolio the user will be pesented 
 Click link to visit portfolio: https://tholmes-portfolio.herokuapp.com/
 
 ## Usage
+![Screen Shot 2022-06-08 at 3 02 49 PM](https://user-images.githubusercontent.com/92659821/173502896-ebfabdf9-4e53-478e-a716-50b147bfa0c5.png)
+![Screen Shot 2022-06-08 at 3 03 14 PM](https://user-images.githubusercontent.com/92659821/173502911-b9690ef9-7804-47e5-b57c-8ca1c80afdb3.png)
+![Screen Shot 2022-06-08 at 3 03 27 PM](https://user-images.githubusercontent.com/92659821/173502927-9517274c-79c6-4220-98b5-f6629b085c65.png)
+![Screen Shot 2022-06-08 at 3 03 54 PM](https://user-images.githubusercontent.com/92659821/173502940-fd45d113-6733-4ecd-a69e-7f0225810ebc.png)
+![Screen Shot 2022-06-08 at 3 04 14 PM](https://user-images.githubusercontent.com/92659821/173502981-4b74a7cf-4adb-4672-8a51-5d9b3b19de2c.png)
 
-This application is covered by the MIT license. 
+
 
 ## Contributing
 Developers are allowed to visit porfolio for personal ideas.
